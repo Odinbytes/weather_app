@@ -8,5 +8,3 @@ Features
 - *Responsive Design*: Fully functional on all devices including desktop, tablet, and mobile.
 - *Units Conversion*: Users can toggle between Celsius and Fahrenheit for temperature readings.
 - *Clear & Simple UI*: Easy-to-navigate interface for quick weather updates.
-
-
