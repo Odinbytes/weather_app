@@ -10,7 +10,8 @@ Features
 - *Clear & Simple UI*: Easy-to-navigate interface for quick weather updates.
 
 Technologies Used
-- Frontend: React (Functional Components, Hooks)
-- Styling: Tailwind CSS
-- Data Persistence: Local Storage API
-- Package Manager: npm or yarn
+- HTML5
+- CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript (ES6+)
+- OpenWeatherMap API (or other chosen weather API)
+- Bootstrap (optional for quicker styling)
