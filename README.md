@@ -16,10 +16,6 @@ Technologies Used
 - OpenWeatherMap API (or other chosen weather API)
 - Bootstrap (optional for quicker styling)
 
-Usage
-- Enter a city name in the search bar to retrieve the current weather information for that location.
-- Toggle between Celsius and Fahrenheit using the button provided.
-- The weather details will be updated in real-time and displayed in the main view.
 
 Future Enhancements
 - Add a forecast feature to display weather predictions for the next few days.
