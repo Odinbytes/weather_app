@@ -9,6 +9,13 @@ Features
 - *Units Conversion*: Users can toggle between Celsius and Fahrenheit for temperature readings.
 - *Clear & Simple UI*: Easy-to-navigate interface for quick weather updates.
 
+
+Usage
+- Enter a city name in the search bar to retrieve the current weather information for that location.
+- Toggle between Celsius and Fahrenheit using the button provided.
+- The weather details will be updated in real-time and displayed in the main view.
+
+  
 Technologies Used
 - HTML5
 - CSS3 (Flexbox, Grid, Responsive Design)
