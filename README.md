@@ -21,4 +21,8 @@ Usage
 - Toggle between Celsius and Fahrenheit using the button provided.
 - The weather details will be updated in real-time and displayed in the main view.
 
-
+Future Enhancements
+- Add a forecast feature to display weather predictions for the next few days.
+- Integrate geolocation services to automatically show the weather of the user's current location.
+- Include error handling for invalid city names or network issues.
+- Improve UI/UX with animations and better accessibility features.
